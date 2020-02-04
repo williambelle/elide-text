@@ -4,6 +4,7 @@ elide-text
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][codecov-image]][codecov-url]
 [![Requirements Status][requires-image]][requires-url]
+[![PyPI version][pypi-image]][pypi-url]
 
 A very simple text truncating function.
 
@@ -50,3 +51,5 @@ The MIT License (MIT)
 [codecov-url]:https://codecov.io/gh/williambelle/elide-text
 [requires-image]:https://requires.io/github/williambelle/elide-text/requirements.svg?branch=master
 [requires-url]:https://requires.io/github/williambelle/elide-text/requirements/?branch=master
+[pypi-image]: https://img.shields.io/pypi/v/elide-text
+[pypi-url]: https://pypi.org/project/elide-text/
