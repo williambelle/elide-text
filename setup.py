@@ -9,6 +9,7 @@ setuptools.setup(
     author_email="william.belle@gmail.com",
     description="A very simple text truncating function",
     long_description=io.open('README.md', encoding='utf-8').read(),
+    long_description_content_type='text/markdown',
     license='MIT',
     packages=setuptools.find_packages('src'),
     package_dir={'': 'src'},
