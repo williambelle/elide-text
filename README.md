@@ -1,7 +1,7 @@
 elide-text
 ==========
 
-[![Build Status][travis-image]][travis-url]
+[![Build Status][github-actions-image]][github-actions-url]
 [![Coverage Status][codecov-image]][codecov-url]
 [![Requirements Status][requires-image]][requires-url]
 [![PyPI version][pypi-image]][pypi-url]
@@ -45,8 +45,8 @@ License
 
 The MIT License (MIT)
 
-[travis-image]: https://travis-ci.org/williambelle/elide-text.svg?branch=master
-[travis-url]: https://travis-ci.org/williambelle/elide-text
+[github-actions-image]: https://github.com/williambelle/elide-text/workflows/Build/badge.svg?branch=master
+[github-actions-url]: https://github.com/williambelle/elide-text/actions
 [codecov-image]:https://codecov.io/gh/williambelle/elide-text/branch/master/graph/badge.svg
 [codecov-url]:https://codecov.io/gh/williambelle/elide-text
 [requires-image]:https://requires.io/github/williambelle/elide-text/requirements.svg?branch=master
